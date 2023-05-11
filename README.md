@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://twitter.com/tetteh_luke" target="blank"><img src="https://img.shields.io/twitter/follow/tetteh_luke?logo=twitter&style=for-the-badge" alt="tetteh_luke" /></a> </p>
 
 - 🔭 I’m currently working on **My old projects**
+- [Portfolio website](https://luke-tetteh.github.io/portfolio/) (still in progess)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
