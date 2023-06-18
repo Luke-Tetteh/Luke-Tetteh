@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/tetteh_luke" target="blank"><img src="https://img.shields.io/twitter/follow/tetteh_luke?logo=twitter&style=for-the-badge" alt="tetteh_luke" /></a> </p>
 
-- 🔭 I’m currently working on **My old projects**
+- 🔭 **My projects**
+- [COVID-19 Households and Jobs Tracker (Third wave)](https://statsghana.gov.gh/covidtracker/wave_3_summary_6.pdf)
+- [Ghana's National Reporting Platform on the SDGs](gs-ghana.github.io)
 - [Portfolio website](https://luke-tetteh.github.io/portfolio/) (still in progess)
 
 <h3 align="left">Connect with me:</h3>
