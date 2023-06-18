@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my profile 👋, I am Luke Tetteh</h1>
-<h3 align="center">A passionate data scientist & software engineer</h3>
+<h3 align="center">A data scientist & software engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luke-tetteh&label=Profile%20views&color=0e75b6&style=flat" alt="luke-tetteh" /> </p>
 
